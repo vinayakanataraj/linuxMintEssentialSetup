@@ -1,6 +1,10 @@
-1. Navigate to the directory containing the "setup.sh" file.
-2. run the command:
-        ./setup.sh
-3. Provide your password
+Clone this repository.
 
-4. Wait for the setup to finish (patiently)
+Navigate to the directory containing the "setup.sh" file.
+
+run the command:
+        ./setup.sh
+
+Provide your password
+
+Wait for the setup to finish (patiently)
