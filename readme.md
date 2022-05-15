@@ -1,10 +1,18 @@
-Clone this repository.
+This script installs a bunch of apps which I was lazy to install by myself.
 
-Navigate to the directory containing the "setup.sh" file.
+Installation instructions:
 
-run the command:
+1. Clone this repository.
+
+2. Navigate to the directory containing the "setup.sh" file.
+
+3. run the command:
         ./setup.sh
 
-Provide your password
+4. Provide your password
 
-Wait for the setup to finish (patiently)
+5. Wait for the setup to finish (patiently)
+
+if you want to modify this installeer, then you can comment out any line you want by adding a # in the beginning of the line (open the setup file using some text editor).
+
+bye
